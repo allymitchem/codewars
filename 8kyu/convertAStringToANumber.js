@@ -13,7 +13,7 @@
 // "-7" --> -7
 
 // my solution
-const stringToNumber = function(str){
+const stringToNumberr = function(str){
     return parseInt(str)
   }
 
